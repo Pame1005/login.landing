@@ -3,11 +3,10 @@
     margin: 0;
     padding: 0;
 }
-.contenedor {
+body {
     background-image: url(https://imagenes.milenio.com/s19S-blRDaGf1_eC8W0w0lIBZPA=/936x566/https://www.milenio.com/uploads/media/2019/09/18/arce-el-arbol-de-las_11_0_478_297.jpg);
-    background-repeat: repeat;
-    background-attachment: fixed;
-    }
+    background-size: cover;
+}
 .contenedor1 {
     background-color: rgba(196, 75, 75, 0.849);
     width: 20vw;
