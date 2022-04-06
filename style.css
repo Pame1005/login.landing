@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Handlee&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+}
+.contenedor {
+    background-image: url(https://imagenes.milenio.com/s19S-blRDaGf1_eC8W0w0lIBZPA=/936x566/https://www.milenio.com/uploads/media/2019/09/18/arce-el-arbol-de-las_11_0_478_297.jpg);
+    background-repeat: repeat;
+    background-attachment: fixed;
+    }
+.contenedor1 {
+    background-color: rgba(196, 75, 75, 0.849);
+    width: 20vw;
+    height: 60vh;
+    }
+.contenedor1 {
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+}
+.contenedor1 {
+    text-align: center;
+    }
+.contenedor1 {
+    margin: 0 auto;
+    margin-top: 60px;
+   }
+.contenedor1 h1 {
+    color: aquamarine;
+    font-family: 'Great vibes', cursive;
+}
+.complete {
+    height: 35px;
+    width: 180px;
+    font-family: 'Great vibes', cursive;
+    background-color: aqua;
+    font-size: medium;
+    border-radius: 10px;
+}
+
+.enviar {
+height: 35px;
+width: 120px;
+margin-top: 20px;
+margin-bottom: 20px;
+background-color: cyan;
+color: rgba(196, 75, 75, 0.849);
+font-family: 'Great vibes', cursive;
+font-size: large;   
+font-weight: bolder;
+border-radius: 15px;
+}
+
+.button {
+height: 25px;
+width: 180px;
+font-family: 'Great vibes', cursive;
+font-size: medium;
+color: rgba(196, 75, 75, 0.849);
+font-weight: bolder;
+border-radius: 10px;
+}
